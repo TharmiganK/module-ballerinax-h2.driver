@@ -7,7 +7,7 @@ This Package bundles the latest H2 driver so that `java.jdbc` connector can be u
 | |   Version    |
 |:---|:------------:|
 |Ballerina Language | **2201.3.0** |
-|MySQL Driver* |  **2.0.206**  |
+|H2 Driver* |  **2.0.206**  |
 
 ## Usage
 

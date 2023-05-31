@@ -9,7 +9,7 @@ dependencies-toml-version = "2"
 [[package]]
 org = "ballerinax"
 name = "h2.driver"
-version = "1.4.2"
+version = "1.0.0"
 modules = [
 	{org = "ballerinax", packageName = "h2.driver", moduleName = "h2.driver"}
 ]

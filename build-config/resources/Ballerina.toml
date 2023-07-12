@@ -6,7 +6,10 @@ authors = ["Ballerina"]
 keywords = ["H2"]
 repository = "https://github.com/TharmiganK/module-ballerinax-h2.driver"
 license = ["Apache-2.0"]
-distribution = "2201.3.0"
+distribution = "2201.7.0"
+
+[platform.java11]
+graalvmCompatible = true
 
 [[platform.java11.dependency]]
 path = "./lib/h2-@h2.driver.version@.jar"
